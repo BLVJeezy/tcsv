@@ -1,0 +1,21 @@
+{
+  "id": "tcsc-beheer",
+  "name": "TCSC Beheer",
+  "short_name": "TCSC Beheer",
+  "description": "Pas de teksten en foto's van de website van TCSC aan.",
+  "start_url": "/beheer.html",
+  "scope": "/beheer",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "nl",
+  "background_color": "#030D19",
+  "theme_color": "#041324",
+  "icons": [
+    {
+      "src": "/assets/img/logo-lockup.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
